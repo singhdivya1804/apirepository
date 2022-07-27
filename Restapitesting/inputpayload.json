@@ -1,0 +1,65 @@
+{
+  "Apirevenue": [
+    {
+      "ln": "singh",
+      "Address": "innerObject",
+      "fn": "div",
+      "id": "unique"
+    },
+    {
+      "ln": "singh",
+      "Address": "innerObject",
+      "fn": "div",
+      "id": "unique1"
+    },
+    {
+      "ln": "singh",
+      "Address": {
+        "houseno": "70",
+        "landmark": "policechowki",
+        "sector": "1"
+      },
+      "fn": "div",
+      "id": "dcdc"
+    },
+    {
+      "ln": "singh",
+      "Address": {
+        "houseno": "70",
+        "landmark": "policechowki",
+        "sector": "1"
+      },
+      "fn": "div",
+      "id": "dcdccb"
+    },
+    {
+      "ln": "singh",
+      "Address": {
+        "houseno": "70",
+        "landmark": "policechowki",
+        "sector": "1"
+      },
+      "fn": "div",
+      "id": "dcdccyu"
+    },
+    {
+      "role": "qa",
+      "Address": [
+        {
+          "desig": "tl",
+          "comp": "res",
+          "type": "PrimaryAddress"
+        },
+        {
+          "dad": "shiv",
+          "mom": "ind",
+          "type": "SecondaryAddress"
+        }
+      ],
+      "office": "filmcity",
+      "id": "bcdvgh"
+    }
+  ],
+  "Apirelationship": [],
+  "Apilegislation": []
+}
